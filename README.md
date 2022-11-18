@@ -34,10 +34,21 @@ Using our original webscraping dependencies as well as Pandas and Matplotlib we 
 ![Martian_days_snap](https://user-images.githubusercontent.com/80132877/202784877-6bbc49c8-943c-45ad-98da-87f1a9018d33.png)
 
 
+##### What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+  * Coldest month is the 3rd month, warmest month is the 8th month
+
+![Avg_monthly_temps_snap](https://user-images.githubusercontent.com/80132877/202785543-09a63b38-fe37-4f5c-ab43-6759c1e893bc.png)
+
+![Monthly_min_temp](https://user-images.githubusercontent.com/80132877/202785590-7a676a22-b545-4e78-a70f-09072839aa55.png)
 
 
+##### Which months have the lowest and the highest atmospheric pressure on Mars? 
+  * Lowest pressure is the 6th month, highest pressure is the 9th month
+
+![Pressure](https://user-images.githubusercontent.com/80132877/202785839-f11964a8-3e5f-469f-aa5d-751d889d1b2b.png)
 
 
+##### About how many terrestrial (Earth) days exist in a Martian year? That is, in the time that Mars circles the Sun once, how many days elapse on Earth?
+  * 687 Earth days for every Martian year
 
-
-
+![Time_lapse](https://user-images.githubusercontent.com/80132877/202786025-703755b0-d7f1-48ac-b11d-ab99430f96de.png)
