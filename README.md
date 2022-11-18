@@ -19,3 +19,25 @@ Using our original webscraping dependencies as well as Pandas and Matplotlib we 
   * About how many terrestrial (Earth) days exist in a Martian year? That is, in the time that Mars circles the Sun once, how many days elapse on Earth?
   
   We were then asked to export our DataFrame into a CSV file.
+  
+## Our findings
+  
+##### How many months exist on Mars?
+   * 12
+    
+ ![Month_snap](https://user-images.githubusercontent.com/80132877/202784608-b892152d-753e-44f1-b3ab-dd774a5ccace.png)
+
+
+##### How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+  * 1967
+
+![Martian_days_snap](https://user-images.githubusercontent.com/80132877/202784877-6bbc49c8-943c-45ad-98da-87f1a9018d33.png)
+
+
+
+
+
+
+
+
+
